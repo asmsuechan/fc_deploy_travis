@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "lint": ""
+    "lint": "echo 'lint'"
   },
   "dependencies": {
     "@alicloud/fun": "^2.2.1",
