@@ -3,6 +3,8 @@ node_js:
 - 8
 install:
 - yarn
+script:
+  - yarn run lint
 before_deploy:
   - yarn add global @alicloud/fun
 deploy:
