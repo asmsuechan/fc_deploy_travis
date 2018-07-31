@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "fc-helper": "^2.1.2"
+    "@alicloud/fun": "^2.2.1",
+    "fc-helper": "^2.1.2",
+    "global": "^4.3.2"
   }
 }
